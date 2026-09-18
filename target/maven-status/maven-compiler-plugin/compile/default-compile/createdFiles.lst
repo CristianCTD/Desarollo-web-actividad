@@ -1,0 +1,9 @@
+com\unicartagena\tutoria\controller\UsuarioController.class
+com\unicartagena\tutoria\repository\UsuarioRepository.class
+com\unicartagena\tutoria\controller\LoginController.class
+com\unicartagena\tutoria\controller\TutoriaController.class
+com\unicartagena\tutoria\TutoriaApplication.class
+com\unicartagena\tutoria\model\Tutoria.class
+com\unicartagena\tutoria\repository\TutoriaRepository.class
+com\unicartagena\tutoria\model\Usuario.class
+com\unicartagena\tutoria\controller\ReporteController.class
